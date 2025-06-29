@@ -239,7 +239,10 @@ a:hover {
   height: 24px;
 }
 .img-udemy {
-  width: 40px;
+  width: 45px;
+}
+.img-santander {
+  width: 30%;
 }
 .certification-provider {
   color: var(--link);
